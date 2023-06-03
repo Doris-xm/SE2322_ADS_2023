@@ -13,7 +13,7 @@
 	├──
 ├── hw1  # AVL和BST比较
 ├── hw2  # SkipList
-├── hw3
+├── hw3	 # Bloom filter
 
 ```
 
@@ -22,7 +22,7 @@
 #### TODO
 
 - [x] SkipList
-- [ ] Bloom Filter
+- [x] Bloom Filter
 - [ ] Splay tree
 - [ ] RedBlack Tree
 - [ ] kd tree

@@ -1,0 +1,4 @@
+# ninja log v5
+285	382	6997078415217770	bloom.exe	3a2778cad70c525d
+5	162	6997078030868857	CMakeFiles/bloom.dir/Bloomfilter.cpp.obj	d8588738f71f26bf
+2	285	6997078414270296	CMakeFiles/bloom.dir/main.cpp.obj	823783db9cf90ddc
