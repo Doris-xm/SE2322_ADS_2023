@@ -14,7 +14,8 @@
 ├── hw1  # AVL和BST比较
 ├── hw2  # SkipList
 ├── hw3	 # Bloom filter
-
+├── hw4	 # Splay tree和AVL比较
+├── hw5
 ```
 
 
@@ -23,7 +24,7 @@
 
 - [x] SkipList
 - [x] Bloom Filter
-- [ ] Splay tree
+- [x] Splay tree
 - [ ] RedBlack Tree
 - [ ] kd tree
 - [ ] Median
