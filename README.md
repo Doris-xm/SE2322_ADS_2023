@@ -1,0 +1,37 @@
+# README
+
+课程：(2022-2023-2)-SE2322-01-高级数据结构
+
+#### 文件目录
+
+```python
+.
+├── 1data_lab
+	├──
+	├──
+	├──
+	├──
+├── hw1  # AVL和BST比较
+├── hw2  # SkipList
+├── hw3
+
+```
+
+
+
+#### TODO
+
+- [x] SkipList
+- [ ] Bloom Filter
+- [ ] Splay tree
+- [ ] RedBlack Tree
+- [ ] kd tree
+- [ ] Median
+- [ ] topological sort
+- [ ] Dijkstra
+- [ ] KMP
+- [ ] parallel programming
+- [ ] Cuckoo hashing
+- [ ] Parallel MST
+- [ ] PageRank
+
