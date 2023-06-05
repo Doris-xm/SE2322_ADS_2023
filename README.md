@@ -18,7 +18,8 @@ qzw的课件真是依托答辩
 ├── hw3	 # Bloom filter
 ├── hw4	 # Splay tree和AVL比较
 ├── hw5  # RB tree和AVL、SkipList的比较
-├── hw6
+├── hw6  # KD tree
+├── hw7
 ```
 
 
@@ -29,7 +30,7 @@ qzw的课件真是依托答辩
 - [x] Bloom Filter
 - [x] Splay tree
 - [x] RedBlack Tree
-- [ ] kd tree
+- [x] kd tree
 - [ ] Median
 - [ ] topological sort
 - [ ] Dijkstra
