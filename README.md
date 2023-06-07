@@ -6,6 +6,8 @@ qzw的课件真是依托答辩
 
 #### 文件目录
 
+notes的md文件在对应hw中
+
 ```python
 .
 ├── 1data_lab
@@ -19,7 +21,8 @@ qzw的课件真是依托答辩
 ├── hw4	 # Splay tree和AVL比较
 ├── hw5  # RB tree和AVL、SkipList的比较
 ├── hw6  # KD tree
-├── hw7
+├── hw7  # Median
+├── hw8
 ```
 
 
@@ -31,7 +34,7 @@ qzw的课件真是依托答辩
 - [x] Splay tree
 - [x] RedBlack Tree
 - [x] kd tree
-- [ ] Median
+- [x] Median
 - [ ] topological sort
 - [ ] Dijkstra
 - [ ] KMP
