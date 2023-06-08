@@ -22,7 +22,8 @@ notes的md文件在对应hw中
 ├── hw5  # RB tree和AVL、SkipList的比较
 ├── hw6  # KD tree
 ├── hw7  # Median
-├── hw8
+├── hw8  # Topological Sort
+├── hw9  #
 ```
 
 
@@ -35,7 +36,7 @@ notes的md文件在对应hw中
 - [x] RedBlack Tree
 - [x] kd tree
 - [x] Median
-- [ ] topological sort
+- [x] topological sort
 - [ ] Dijkstra
 - [ ] KMP
 - [ ] parallel programming
