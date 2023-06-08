@@ -24,7 +24,9 @@ notes的md文件在对应hw中
 ├── hw7  # Median
 ├── hw8  # Topological Sort
 ├── hw9  # Dijkstra
-├── hw10
+├── hw10 # KMP，parallel
+├── hw11 # Cuckoo Hash（parallel）
+├── hw12
 ```
 
 
@@ -39,9 +41,9 @@ notes的md文件在对应hw中
 - [x] Median
 - [x] topological sort
 - [x] Dijkstra
-- [ ] KMP
-- [ ] parallel programming
-- [ ] Cuckoo hashing
+- [x] KMP
+- [x] parallel programming
+- [x] Cuckoo hashing
 - [ ] Parallel MST
 - [ ] PageRank
 
