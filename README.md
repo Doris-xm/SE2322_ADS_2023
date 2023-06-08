@@ -23,7 +23,8 @@ notes的md文件在对应hw中
 ├── hw6  # KD tree
 ├── hw7  # Median
 ├── hw8  # Topological Sort
-├── hw9  #
+├── hw9  # Dijkstra
+├── hw10
 ```
 
 
@@ -37,7 +38,7 @@ notes的md文件在对应hw中
 - [x] kd tree
 - [x] Median
 - [x] topological sort
-- [ ] Dijkstra
+- [x] Dijkstra
 - [ ] KMP
 - [ ] parallel programming
 - [ ] Cuckoo hashing
