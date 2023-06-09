@@ -10,11 +10,12 @@ notes的md文件在对应hw中
 
 ```python
 .
-├── 1data_lab
-	├──
-	├──
-	├──
-	├──
+├── README.md
+├── 1data_lab # lab3没要求编程
+	├── lab0 # 稀疏矩阵
+	├── lab1_local # 无旋Treap
+    ├── lab1报告  # Treap_note
+	├── ads-lab2 # 路径规划，据说测试集后来加强
 ├── hw1  # AVL和BST比较
 ├── hw2  # SkipList
 ├── hw3	 # Bloom filter
@@ -26,7 +27,10 @@ notes的md文件在对应hw中
 ├── hw9  # Dijkstra
 ├── hw10 # KMP，parallel
 ├── hw11 # Cuckoo Hash（parallel）
-├── hw12
+├── hw12 # Kruskal （parallel）
+├── hw13 # PageRank
+├── img
+├── notes # pdf
 ```
 
 
@@ -44,6 +48,19 @@ notes的md文件在对应hw中
 - [x] KMP
 - [x] parallel programming
 - [x] Cuckoo hashing
-- [ ] Parallel MST
-- [ ] PageRank
+- [x] Parallel MST
+- [x] PageRank
+- [x] lab0: Matrix
+
+* [x] lab1: Treap
+* [x] lab2: 最短路
+* [x] lab3：parallel
+
+
+
+---
+
+感觉并行编程学得还不是很明白。
+
+还是不会解决git冲突问题:sob:
 
